@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-- 🌱 I’m currently learning Data Analist in @Adalab
+- 🌱 I’m currently learning Data Analist in[Adalab](https://github.com/Adalab)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/laura-genesis-bp)
