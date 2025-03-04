@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-- 🌱 I’m currently learning DAW in [Digiteh].
+- 🌱 I’m currently learning DAW in Digiteh.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/laura-genesis-bp)
